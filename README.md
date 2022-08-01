@@ -1,9 +1,9 @@
-### Hey 👋, I'm Mehdi
+### Hey 👋, I'm Brayan Salazar
 
-<a href="https://www.linkedin.com/in/mehdimabrouki/">
+<a href="https://www.linkedin.com/in/brayan-alexis-salazar-rivas-238725157/">
   <img align="left" alt="Mehdi's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://www.kaggle.com/mehdimabrouki">
+<a href="https://brayansalazar.netlify.app/">
   <img align="left" alt="Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/kaggle.svg" />
 </a>
 <a href="https://www.instagram.com/mabroukimehdi/">
