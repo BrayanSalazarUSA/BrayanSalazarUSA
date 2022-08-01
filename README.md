@@ -37,7 +37,7 @@ Hi there, I'm **Mehdi Mabrouki**, a **Kaggle Competitions Expert** ( Ranked Top 
 
 ### Languages and Tools 🛠 
 
-![Java](http://img.shields.io/badge/-Java-5B4638?style=flat-square&logo=java&logoColor=#FF160B)
+![Java](http://img.shields.io/badge/-Java-#FF160B?style=flat-square&logo=java&logoColor=#FF160B)
 ![Spring](https://img.shields.io/badge/-Spring-green?style=plastic&logo=spring)
 ![MaterialUI](https://img.shields.io/badge/-MaterialUI-blue?style=plastic&logo=MUI)
 
