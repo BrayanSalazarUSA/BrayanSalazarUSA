@@ -49,7 +49,7 @@ Hi there, I'm **Mehdi Mabrouki**, a **Kaggle Competitions Expert** ( Ranked Top 
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=Bootstrap)
 ![Tailwindcss](https://img.shields.io/badge/Tailwind-000000?style=flat-square&logo=TailwindCSS)
 ![MaterialUI](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown)
-![Tailwind](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=ffffff)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=Node.js&logoColor=ffffff)
 ![Npm](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=ffffff)
 ![MYSQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=000000)
