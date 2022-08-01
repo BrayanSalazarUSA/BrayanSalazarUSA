@@ -1,4 +1,4 @@
-## Hey 👋, I'm Brayan Salazar
+## Hey 👋, I'm Brayan
 
 <a href="https://www.linkedin.com/in/brayan-alexis-salazar-rivas-238725157/">
   <img align="left" alt="Mehdi's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -16,19 +16,18 @@
 <br />
 <br />
 
-Hi there, I'm **Brayan**, a **Im am a sowftware developer** 👨🏽‍💻 and a **Mechatronics Engineering student** 🚀 from Medellin-Colombia.  Currently, I'm a Community Team Member 🙍🏽‍♂️ [@CallmeMehdi](https://github.com/CallmeMehdi), Kaggler 👨🏽‍💻 [@Kaggle](https://www.kaggle.com/mehdimabrouki), and an Artificial Intelligence intern 👨🏽‍💼. 
+Hi there, I'm **Brayan**, a **Im am a sowftware developer** 👨🏽‍💻 and a **Mechatronics Engineering student** 🚀 from Medellin-Colombia.  
 
   <img align="right" alt="GIF" src="https://c.tenor.com/5xNHqDTe-KgAAAAd/3d.gif" />
 
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently an Artificial Intelligence intern with [Vneuron](https://www.vneuron.com/) working on NLP/NLU projects;
+
 - 🌱 I’m currently learning Deep Reinforcement Learning; 
-- 🤔 My interests are with Natural Language Processing/Understanding, Computer vision, Reinforcement Learning, etc..;
-- 💼 I’m pursuing a Bachelor's degree in Software Engineering;
+- 💼 I’m pursuing a Bachelor's degree in Engineering;
 - 💬 Ask me about anything, I am happy to help;
-- 📫 Please email via mabrouki.mehdi25@gmail.com to reach me.
-- 📝 See my [Curriculum Vitae](https://drive.google.com/file/d/1q_ATZsO9c488VUxj1JuU--ZYe9IEqp4-/view?usp=sharing) to get more info.
+- 📫 Please email via brayansalazar.dev@gmail.com
+- 📝 See my [Curriculum Vitae](https://drive.google.com/drive/u/0/my-drive) to get more info.
 
 
 
