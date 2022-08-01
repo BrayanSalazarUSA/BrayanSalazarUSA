@@ -47,7 +47,7 @@ Hi there, I'm **Mehdi Mabrouki**, a **Kaggle Competitions Expert** ( Ranked Top 
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=Bootstrap)
-![Tailwindcss](https://img.shields.io/badge/-Tailwind CSS-06B6D4?style=flat-square&logo=Tailwind CSS)
+![Tailwindcss](https://img.shields.io/badge/Bootstrap-06B6D4?style=flat-square&logo=Tailwind CSS)
 ![MaterialUI](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown)
 ![Tailwind](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=ffffff)
 ![Npm](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm)
