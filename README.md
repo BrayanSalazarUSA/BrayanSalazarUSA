@@ -6,19 +6,13 @@
 <a href="https://brayansalazar.netlify.app/">
   <img align="left" alt="Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/kaggle.svg" />
 </a>
-<a href="https://www.instagram.com/mabroukimehdi/">
-  <img align="left" alt="Mehdi's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://www.facebook.com/mehdi.mabrouki1">
-  <img align="left" alt="Mehdi's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
 
 <br />
 <br />
 
 Hi there, I'm **Brayan**, a **Im am a sowftware developer** 👨🏽‍💻 and a **Mechatronics Engineering student** 🚀 from Medellin-Colombia.  
 
-  <img align="right" alt="GIF" src="https://c.tenor.com/5xNHqDTe-KgAAAAd/3d.gif" />
+  <img align="right" alt="GIF" src="https://media.giphy.com/media/fsoCk5kgOcYMM/giphy.gif" />
 
 **Talking about Personal Stuffs:**
 
