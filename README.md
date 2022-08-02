@@ -12,7 +12,7 @@
 
 Hi there, I'm **Brayan**, a **Im am a sowftware developer** 👨🏽‍💻 and a **Mechatronics Engineering student** 🚀 from Medellin-Colombia.  
 
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/fsoCk5kgOcYMM/giphy.gif" />
+ 
 
 **Talking about Personal Stuffs:**
 
