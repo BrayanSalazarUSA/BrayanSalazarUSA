@@ -17,7 +17,7 @@ Hi there, I'm **Brayan**, a **Im am a sowftware developer** 👨🏽‍💻 and 
 **Talking about Personal Stuffs:**
 
 
-- 🌱 I’m currently learning Deep Reinforcement Learning; 
+- 🌱 I’m currently learning Microservices and Docker; 
 - 💼 I’m pursuing a Bachelor's degree in Engineering;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 Please email via brayansalazar.dev@gmail.com
@@ -55,4 +55,4 @@ Hi there, I'm **Brayan**, a **Im am a sowftware developer** 👨🏽‍💻 and 
 <br/>
 
 
-⭐️ From [CallmeMehdi](https://github.com/CallmeMehdi)
+⭐️
