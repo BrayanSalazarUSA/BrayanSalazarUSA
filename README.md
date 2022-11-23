@@ -34,7 +34,7 @@ Hi there, I'm **Brayan**, a **Im am a sowftware developer** 👨🏽‍💻 and 
 ![Java](http://img.shields.io/badge/-Java-FF160B?style=flat-square&logo=java&logoColor=#FF160B)
 ![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=plastic&logo=spring)
-![SpringSecurity](https://img.shields.io/badge/-Spring$Security-6DB33F?style=plastic&logo=spring)
+![Microservicios](https://img.shields.io/badge/-Microservicops-6DB33F?style=plastic&logo=spring)
 ![Angular](https://img.shields.io/badge/-Angular-FF160B?style=flat-square&logo=angular&logoColor=#FF160B)
 ![React](https://img.shields.io/badge/-React-0088CC?style=flat-square&logo=react&logoColor=ffffff)
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
@@ -46,7 +46,8 @@ Hi there, I'm **Brayan**, a **Im am a sowftware developer** 👨🏽‍💻 and 
 ![MYSQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=000000)
 ![Npm](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=aws)
+![AWS](https://img.shields.io/badge/-AWS-181717?style=flat-square&logo=github)
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
 
 <br/>
