@@ -35,6 +35,7 @@ Hi there, I'm **Brayan**, a **Im am a sowftware developer** 👨🏽‍💻 and 
 ![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=plastic&logo=spring)
 ![SpringSecurity](https://img.shields.io/badge/-Spring$Security-6DB33F?style=plastic&logo=spring)
+![Angular](https://img.shields.io/badge/-Angular-0088CC?style=flat-square&logo=angular&logoColor=ffffff)
 ![React](https://img.shields.io/badge/-React-0088CC?style=flat-square&logo=react&logoColor=ffffff)
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
