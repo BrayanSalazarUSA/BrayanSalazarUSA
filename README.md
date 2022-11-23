@@ -46,8 +46,9 @@ Hi there, I'm **Brayan**, a **Im am a sowftware developer** 👨🏽‍💻 and 
 ![MYSQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=000000)
 ![Npm](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=aws)
-![AWS](https://img.shields.io/badge/-AWS-181717?style=flat-square&logo=github)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![AWS](https://img.shields.io/badge/-AWS-181717?style=flat-square&logo=aws)
+![Docker](http://img.shields.io/badge/-Docker-0078D6?style=flat-square&logo=docker&logoColor=ffffff)
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
 
 <br/>
