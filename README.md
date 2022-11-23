@@ -21,7 +21,7 @@ Hi there, I'm **Brayan**, a **Im am a sowftware developer** 👨🏽‍💻 and 
 - 💼 I’m pursuing a Bachelor's degree in Engineering;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 Please email via brayansalazar.dev@gmail.com
-- 📝 See my [Curriculum Vitae](https://drive.google.com/file/d/1dKHAmjPOmSDV1nZhSCuCo2zNaf7Q0rsJ/view?usp=sharing) to get more info.
+- 📝 See my [Curriculum Vitae](https://drive.google.com/file/d/1NDp2_mmqO8fdRcbOWDIADogRFNdVPggI/view?usp=sharing) to get more info.
 
 
 
