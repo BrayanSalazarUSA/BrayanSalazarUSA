@@ -33,7 +33,7 @@ Hi there, I'm **Brayan**, a **Im am a sowftware developer** 👨🏽‍💻 and 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![Java](http://img.shields.io/badge/-Java-FF160B?style=flat-square&logo=java&logoColor=#FF160B)
 ![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
-![Typescript](http://img.shields.io/badge/-Typescript-3776AB?style=flat-square&logo=typescript&logoColor=ffffff)
+![Typescript](http://img.shields.io/badge/-Typescript-0078D6?style=flat-square&logo=typescript&logoColor=ffffff)
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=plastic&logo=spring)
 ![Microservicios](https://img.shields.io/badge/-Microservicios-6DB33F?style=plastic&logo=spring)
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=#FF160B)
