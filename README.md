@@ -33,7 +33,6 @@ Hi there, I'm **Brayan**, a **Im am a sowftware developer** 👨🏽‍💻 and 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![Java](http://img.shields.io/badge/-Java-FF160B?style=flat-square&logo=java&logoColor=#FF160B)
 ![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
-![Typescript](http://img.shields.io/badge/-Typescript-0078D6?style=flat-square&logo=typescript&logoColor=ffffff)
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=plastic&logo=spring)
 ![Microservicios](https://img.shields.io/badge/-Microservicios-6DB33F?style=plastic&logo=spring)
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=#FF160B)
@@ -42,7 +41,6 @@ Hi there, I'm **Brayan**, a **Im am a sowftware developer** 👨🏽‍💻 and 
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=Bootstrap)
 ![Tailwindcss](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=TailwindCSS&logoColor=ffffff)
-![MaterialUI](https://img.shields.io/badge/-MaterialUI-blue?style=plastic&logo=MUI)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=Node.js&logoColor=ffffff)
 ![MYSQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=000000)
 ![Npm](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm)
@@ -50,7 +48,7 @@ Hi there, I'm **Brayan**, a **Im am a sowftware developer** 👨🏽‍💻 and 
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws)
 ![Docker](http://img.shields.io/badge/-Docker-0078D6?style=flat-square&logo=docker&logoColor=ffffff)
-![POSTGRESQL](http://img.shields.io/badge/-PostgresSQL-4169E1?style=flat-square&logo=postgresql&logoColor=ffffff)
+
 
 <br/>
 
