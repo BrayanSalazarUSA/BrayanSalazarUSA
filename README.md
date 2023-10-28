@@ -1,4 +1,4 @@
-## Hey 👋, I'm Brayan
+# Hi 👋, I'm Brayan Salazar
 
 <a href="https://www.linkedin.com/in/brayan-alexis-salazar-rivas-238725157/">
   <img align="left" alt="Mehdi's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
