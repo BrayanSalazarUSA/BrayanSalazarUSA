@@ -3,7 +3,7 @@
 <a href="https://www.linkedin.com/in/brayan-alexis-salazar-rivas-238725157/">
   <img align="left" alt="Mehdi's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://brayansalazar.netlify.app/">
+<a href="https://brayansalazardev.netlify.app/">
   <img align="left" alt="Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/kaggle.svg" />
 </a>
 
@@ -21,7 +21,7 @@ Hi there, I'm **Brayan**, a **Im am a sowftware developer** 👨🏽‍💻 and 
 - 💼 I’m pursuing a Bachelor's degree in Engineering;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 Please email via brayansalazar.dev@gmail.com
-- 📝 See my [Curriculum Vitae](https://drive.google.com/file/d/1NDp2_mmqO8fdRcbOWDIADogRFNdVPggI/view?usp=sharing) to get more info.
+- 📝 See my [Curriculum Vitae](https://drive.google.com/file/d/14CyrbtMr1LolM1daqcMMPjZvM0PPf2D8/view) to get more info.
 
 
 
