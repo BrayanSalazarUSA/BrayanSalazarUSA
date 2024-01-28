@@ -43,7 +43,6 @@ Hi there, I'm **Brayan**, a **Im am a sowftware developer** 👨🏽‍💻 and 
 ![Tailwindcss](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=TailwindCSS&logoColor=ffffff)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=Node.js&logoColor=ffffff)
 ![MYSQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=000000)
-![Npm](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws)
