@@ -1,7 +1,9 @@
 # Hi 👋, I'm Brayan Salazar
 
 <a href="https://www.linkedin.com/in/brayan-alexis-salazar-rivas-238725157/">
-  <img align="left" alt="Mehdi's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" color="#fff" />
+<svg align="left" width="22px" height="22px" viewBox="0 0 24 24" fill="#fff" xmlns="http://www.w3.org/2000/svg">
+  <path d="M20.447 20.452h-3.554v-5.569c0-1.327-.024-3.037-1.852-3.037-1.853 0-2.136 1.445-2.136 2.939v5.667H9.352V9h3.414v1.561h.049c.476-.899 1.637-1.852 3.372-1.852 3.605 0 4.27 2.372 4.27 5.457v6.286zM5.337 7.433c-1.144 0-2.07-.927-2.07-2.07 0-1.144.926-2.07 2.07-2.07 1.143 0 2.07.926 2.07 2.07 0 1.143-.927 2.07-2.07 2.07zM6.765 20.452H3.91V9h2.855v11.452zM22.225 0H1.771C.792 0 0 .771 0 1.723v20.555C0 23.228.792 24 1.771 24h20.451C23.2 24 24 23.228 24 22.278V1.723C24 .771 23.2 0 22.225 0z"/>
+</svg>
 </a>
 <a href="https://brayansalazardev.netlify.app/">
   <img align="left" alt="Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/kaggle.svg" />
